@@ -1,7 +1,10 @@
 {
   "name": "yeomantest",
   "version": "0.0.0",
-  "dependencies": {},
+  "description": "example yeoman app on heroku",
+  "dependencies": {
+    "express": "^4.6.1"
+  },
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-autoprefixer": "^0.7.3",
